@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+        <field key="author" value="Charitha" />
+        <field key="version" value="1.7.7" />
+        <field key="description" value="Elgg Google Buzz widget" />
+        <field key="website" value="http://www.elgg.org/" />
+        <field key="copyright" value="(C) Charithccmc" />
+        <field key="licence" value="GNU Public License version 2" />
+        <field key="elgg_version" value="2010071002" />
+</plugin_manifest>
